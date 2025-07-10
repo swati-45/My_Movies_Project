@@ -4,25 +4,25 @@
 
 ## Features
 
--  **Home Page**:  
+  **Home Page**:  
   Displays a list of trending movies and TV series with cards showing:
-  - Poster
-  - Title
-  - Rating
-  - Language
-  - Release date
-  - Media type (Movie / TV)
+  -  Poster
+  -  Title
+  -  Rating
+  -  Language
+  -  Release date
+  -  Media type (Movie / TV)
 
--  **Movies Page**:  
+  **Movies Page**:  
   Filter movies based on animation, action,crime, drama etc.
 
--  **TV Series Page**:  
+  **TV Series Page**:  
   Similar to Movies page, with filters for TV content.
 
--  **Search Page**:  
+  **Search Page**:  
   Search for any movie or series by name.
 
- **Detailed Movie/Series View**:
+  **Detailed Movie/Series View**:
   Clicking on any card opens a page with:
   -  Genre
   -  Type
@@ -32,13 +32,13 @@
   -  Overview / Storyline
   -  Embedded trailer (YouTube)
 
--  **Contact Section**:  
+  **Contact Section**:  
   Social media icons (GitHub, LinkedIn, Email) that redirect to your profiles.
 
--  **About Page**:  
+  **About Page**:  
   Includes a description of the project and the API used.
 
--  **Footer**:  
+  **Footer**:  
   Contains social icons and copyright.
 
 ##  API Used
@@ -49,12 +49,12 @@
 
 ## 🛠 Tech Stack
 
-- React JS
-- Bootstrap
-- React Router
-- React Icons
-- TMDb API
-- CSS
+-  React JS
+-  Bootstrap
+-  React Router
+-  React Icons
+-  TMDb API
+-  CSS
 
 ##  Contact
 
