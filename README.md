@@ -47,7 +47,7 @@
   All data is fetched from the TMDb API including movie posters, descriptions, release dates, and trailers.
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 -  React JS
 -  Bootstrap
@@ -63,6 +63,6 @@
 -  [GitHub](https://github.com/swati-45)
 
 
-## 📃 License
+##  License
 
 This project is for educational and personal use. Forking is welcome.
