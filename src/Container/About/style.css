@@ -1,0 +1,14 @@
+.linkStyle {
+  color: #007bff;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  font-size: 1rem;
+}
+
+.linkStyle:hover {
+  color: #2222ae; 
+  font-size: 1.005rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
