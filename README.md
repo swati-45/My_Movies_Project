@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# MyMovies - React Movie & TV Series App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**MyMovies** is a responsive web application built using React that allows users to browse, filter, and search for movies and TV series. It uses real-time API data to display up-to-date information about trending and popular content.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+-  **Home Page**:  
+  Displays a list of trending movies and TV series with cards showing:
+  - Poster
+  - Title
+  - Rating
+  - Language
+  - Release date
+  - Media type (Movie / TV)
 
-### `npm start`
+-  **Movies Page**:  
+  Filter movies based on animation, action,crime, drama etc.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-  **TV Series Page**:  
+  Similar to Movies page, with filters for TV content.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-  **Search Page**:  
+  Search for any movie or series by name.
 
-### `npm test`
+ **Detailed Movie/Series View**:
+  Clicking on any card opens a page with:
+  -  Genre
+  -  Type
+  -  Release Year
+  -  Budget
+  -  Country of Origin
+  -  Overview / Storyline
+  -  Embedded trailer (YouTube)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-  **Contact Section**:  
+  Social media icons (GitHub, LinkedIn, Email) that redirect to your profiles.
 
-### `npm run build`
+-  **About Page**:  
+  Includes a description of the project and the API used.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-  **Footer**:  
+  Contains social icons and copyright.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  API Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **[TMDb (The Movie Database)](https://www.themoviedb.org/documentation/api)**  
+  All data is fetched from the TMDb API including movie posters, descriptions, release dates, and trailers.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠 Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React JS
+- Bootstrap
+- React Router
+- React Icons
+- TMDb API
+- CSS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##  Contact
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-  Email: [swati.gangwar.che23@itbhu.ac.in](mailto:swati.gangwar.che23@itbhu.ac.in)
+-  [LinkedIn](https://www.linkedin.com/in/swati-gangwar-2599ab310)
+-  [GitHub](https://github.com/swati-45)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📃 License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is for educational and personal use. Forking is welcome.
